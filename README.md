@@ -5,4 +5,5 @@ how to use:
     pip3.8 install PyQT5
     pip3.8 install bs4
     pip3.8 install requests
+    cd whois
     python3.8 whois.py   
